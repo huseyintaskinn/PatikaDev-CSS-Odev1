@@ -1,0 +1,25 @@
+* {
+    font-family: Calibri;
+    text-align: center;
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu > li {
+    margin: 5px;
+}
+
+#alet {
+    display: inline-block;
+    margin: 0px;
+}
+
+.altbaslik {
+    color: goldenrod;
+}
